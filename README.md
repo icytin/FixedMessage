@@ -5,11 +5,11 @@ A nice overlay message banner. Only CSS and a little bit HTML
 
 Include the main.css.
 
-```HTML example
-  <div id="messages">
-    <div class="message info">Hello world!</div>
-  </div>
-```
+HTML example:
+<div id="messages">
+  <div class="message info">Hello world!</div>
+</div>
+
 
 ## Classes
 1. info
