@@ -17,3 +17,6 @@ Include the main.css and write your html, for example:
 3. error
 4. emeraldChoice
 5. success
+
+## Demo
+Check out the demo [here](http://icytin.github.io/FixedMessage/).
