@@ -3,7 +3,7 @@ A nice overlay message banner. Only CSS and a little bit HTML
 
 ## Usage
 
-Include the main.css.
+Include the main.css and write your html, for example:
 
 ```html
 <div id="messages">
